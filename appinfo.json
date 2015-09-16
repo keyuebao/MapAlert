@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Keyue Bao",
+    "longName": "Map Alert",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Map Alert",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "6ce8a359-cd6e-4b20-9e00-18d7365064e3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
